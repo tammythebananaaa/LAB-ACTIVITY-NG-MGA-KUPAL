@@ -1,0 +1,2 @@
+Jane Doe|jane@example.com|0987654321|Friends|2024-12-02
+John Smith|john@example.com|1234567890|Family|2024-12-02
